@@ -4,15 +4,14 @@
   </p>
 	<h1 align="center"><b>LH Stinger</b></h1>
 	<p align="center"> <strong>
-		A no-compromise cartesian 3D Printer designed for speed and precision, created as a long-lasting platform for those who like to push quality or speed to the extreme.  </strong>
+		A no-compromise cartesian 3D Printer designed for speed and precision, created as a long-lasting platform for those who like to push quality and speed to the extreme.  </strong>
     <br />
     <br />
-    <i>~ This is a community-driven project, not a brand. ~
+        <br />
+    <i>~ A community-driven project ~ </i>
     <br /> 
     <br />
-    <br />
-    </i>
-      <a href="https://discord.gg/EzssCfnEDS"> <img  src="Images/disc.png" />  </a>
+      <a href="https://discord.gg/EzssCfnEDS"> <img  src="Images/disc2.png" />  </a>
     <br />
 </a>
   </p>
@@ -20,7 +19,9 @@
 
 <br>
 
-![Image of LH Stinger 3D Printer Front View](Images/New_Frame_v1024.png)  
+![Image of LH Stinger 3D Printer Front View](Images/New_Frame_v1024-b.png)  
+
+
 
 <br>
 
@@ -30,37 +31,30 @@ Status: **V1.0**
 <br>
 
 
-[![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa] [![DISCORD][s2]][l2] [![YOUTUBE][s5]][l5] [![KOFI][s1]][l1]  
 
-[s1]: https://img.shields.io/badge/Buy%20Me%20a%20Coffeee-d3dsds?logo=ko-fi&logoColor=white&labelColor=red&color=red
-[l1]: https://ko-fi.com/lh_eng
-[s2]: https://img.shields.io/badge/Discord-asdsadsa?logo=discord&logoColor=white&color=5865F2
-[l2]: https://discord.gg/EzssCfnEDS
-[s5]: https://img.shields.io/badge/Youtube-8A2323443?logo=youtube&logoColor=red&color=white
-[l5]: https://www.youtube.com/@LemurHaze
+## Sponsors
 
-
-
-[cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
-[cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
-[cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
+[![JLCPCB](Images/jlc_logo.png)](https://flexheater.jlcpcb.com/?from=LH_STINGER)
   
+   Sponsored by [JLCPCB Flexible Heaters](https://flexheater.jlcpcb.com/?from=LH_STINGER) - **Custom Flex Heaters for Your Build**
+<br>
+
 ## Contents
 
 - [Features](#features)
 - [Resources](#resources)
 - [Assembly Instructions](#assembly-instructions)
-- [Upcoming Projects](#future-projects)
+- [Addons](#addons)
 - [Contact](#contact)
 - [Credits](#credits)
-- [Support](#support)
+- [Supporters](#supporters)
 - [License](#license)
 
 <br>
 
 
 ## Features
-*(BOM Spec)*
+_**(at BOM Spec)**_
 <br>
 
 - Cross Frame design focused on stiffness and stability with a low center of gravity
@@ -116,11 +110,46 @@ Status: **V1.0**
 
 <br>
 
+## Kits - BOM
+
+* This project can be self-sourced by following the [**BOM Guide**](https://docs.google.com/spreadsheets/d/1s8ulLfThmbuy1G_40MvkXXL2oVx9PZhvpAY9hMxqYbg/).  
+
+
+* An official upgraded **LH Stinger - Rev2 Kit** is produced and sold by **[FYSETC](https://www.fysetc.com/products/lh-stinger-3d-printer-kit)**.
+
+
+[![Fysetc LH Stinger Rev2 Kit](Images/Fysetc_lhstinger_Rev2.jpg)](https://www.fysetc.com/products/lh-stinger-3d-printer-kit)<br>
+
+
+
+### Kit Highlights:
+
+* Phaetus Dragon UHF - Hotend
+* FYSETC Sherpa Mini - All Metal - CNC Extruder
+* MGN 12H Z1 Preload Linear Rails
+* FYSETC Spider V3.0 H7 (550Mhz) High Voltage board 
+* 48V Power with TMC5160 Drivers (AWD Y, X Axis)
+* High Torque 2.5A 580mN.m Stepper Motors with 30mm shafts for double shear support
+* Delta (48V) and Meanwell (24V) PSUs
+* Carbon Fiber Bed with Pre-applied PI Heater and Pre-epoxied CF Carriage Assembly
+* LHS Breakbeat distribution board and wiring harness
+
+**You require**: The **Printed Parts** and a **BTT Pi V1.2** or **Raspberry Pi** SBC (Klipper Host)
+<br>
+
+[**Fysetc - LH Stinger - Kit**](https://www.fysetc.com/products/lh-stinger-3d-printer-kit)  
+  
+Use the code **FYSBKSALELH** for a total of **$699**. Free shipping directly from US/EU.  
+A portion of every kit sale goes towards supporting the project! :purple_heart:  
+
+<br>
+
+
+
 ## Resources
 <br>
 
 - [**Assembly Guide**](https://github.com/lhndo/LH-Stinger/wiki/)
-- [**BOM/Kits**](https://docs.google.com/spreadsheets/d/1s8ulLfThmbuy1G_40MvkXXL2oVx9PZhvpAY9hMxqYbg/edit?usp=drive_link)  
 - [STL Files and Printing Instructions](STL/)  
 - [CAD Source Files ](CAD/)
 - [Klipper Configuration ](Config/Klipper_Config) 
@@ -140,10 +169,11 @@ Status: **V1.0**
 *For additional support please join us on the [LH Stinger Discord](https://discord.gg/EzssCfnEDS)*
 
 
+
 <br>
 
 
-## Stinger Addons
+## Addons
 
 - [**LHS Pico MMU**](https://github.com/lhndo/LH-Stinger/wiki/Pico-MMU)  
 
@@ -159,10 +189,13 @@ Status: **V1.0**
 
 <br>
 
+- An extensive range of [**community mods**]((/User_Mods)) available
+
+<br>
+
 ## Contact
 
 lemurshaze @ gmail.com  
-
 @LH on [LH Stinger Discord](https://discord.gg/EzssCfnEDS)
 <br>
 
@@ -175,26 +208,51 @@ lemurshaze @ gmail.com
 
 <br>
 
-_Inspired by the [Annex Engineering](https://github.com/Annex-Engineering) team and [community](https://discord.com/invite/MzTR3zE), along with the [Klipper community](https://discord.klipper3d.org), [RatRig](https://ratrig.com/) and all the crazy people that continue to push bed slingers to the limits. :purple_heart:_
+_Inspired by the [Annex Engineering](https://github.com/Annex-Engineering) team and [community](https://discord.com/invite/MzTR3zE), along with the [Klipper community](https://discord.klipper3d.org), [RatRig](https://ratrig.com/) and all the crazy people that continue to push bed slingers to their limits. :purple_heart:_
 
--Toolhead evolved from an amazing design by [Dalegaard](https://github.com/dalegaard)<br>
--Silicon sock mold based on [Renátó Kulman](https://www.printables.com/@RenatoKulman)<br>
--Wago 221 mounts by [fns720](https://www.printables.com/@fns720)<br>
--SSR protection cover based on [Technoturk](https://www.printables.com/@Technoturk_377911)<br>
--3030 extrusion Cable clip based on [Arthur_C](https://www.printables.com/@Arthur_C_428094)<br>
--3030 t-nut clip based on [John_S](https://www.printables.com/@JohnS)<br>
+-Toolhead evolved from an amazing design by [Dalegaard](https://github.com/dalegaard)  
+-Silicon sock mold based on [Renátó Kulman](https://www.printables.com/@RenatoKulman)  
+-Wago 221 mounts by [fns720](https://www.printables.com/@fns720)  
+-SSR protection cover based on [Technoturk](https://www.printables.com/@Technoturk_377911)  
+-3030 extrusion Cable clip based on [Arthur_C](https://www.printables.com/@Arthur_C_428094)  
+-3030 t-nut clip based on [John_S](https://www.printables.com/@JohnS)  
 <br>
 
-## Support
+## Supporters
+
+<br>
+
+*Special thanks to those who donated to this project throughout its development!* :purple_heart:  
+
+**djezo888. Fen, Budz, techb0i, PinGZ, abstractFlo, BeccaK, Steven @crydteam, Robin @crydteam, Fred Bernton, Mawoka, rmxbit, Mcclane, malar6606, EMMY BEAR 3D, Killa_Prints, Michel, vr6deezy, Ajax240, Zemlos01, popster, Dan, Sibert, Ultracopa, yoske, Arjun, iKuro**  
+
+
+
+If you would like to give your support, please use the link below:
 
 <a href='https://ko-fi.com/P5P7PF0ED' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi6.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 
+<br>
 
 ## License
 
 
+
 This work is licensed under a [Creative Commons (4.0 International License)  ](https://creativecommons.org/licenses/by-nc-sa/4.0/)  
 [**Attribution—Noncommercial—Share Alike**](LICENSE.md)  
-<br>
-<img src="Images/CC.jpg" width="100">  
-<br>
+
+
+[![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa] [![DISCORD][s2]][l2] [![YOUTUBE][s5]][l5] 
+
+[s1]: https://img.shields.io/badge/Buy%20Me%20a%20Coffeee-d3dsds?logo=ko-fi&logoColor=white&labelColor=red&color=red
+[l1]: https://ko-fi.com/lh_eng
+[s2]: https://img.shields.io/badge/Discord-asdsadsa?logo=discord&logoColor=white&color=5865F2
+[l2]: https://discord.gg/EzssCfnEDS
+[s5]: https://img.shields.io/badge/Youtube-8A2323443?logo=youtube&logoColor=red&color=white
+[l5]: https://www.youtube.com/@LemurHaze
+
+
+
+[cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
+[cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
+[cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
