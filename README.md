@@ -42,6 +42,7 @@ Status: **V1.0**
 ## Contents
 
 - [Features](#features)
+- [Kits - BOM](#kits---bom)
 - [Resources](#resources)
 - [Assembly Instructions](#assembly-instructions)
 - [Addons](#addons)
